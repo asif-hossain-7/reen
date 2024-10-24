@@ -1,0 +1,187 @@
+/* 2X EXTRA LARGE DEVICES - xxl (Extra Large Desktops, 1400px and up) */
+@media (min-width: 1400px) {
+}
+
+/* EXTRA LARGE DEVICES - xl (Large Desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+}
+
+/* LARGE DEVICES - lg (Desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .flip-card-back {
+    background: none;
+  }
+  footer .top-footer .item .subscribe-field button {
+    right: 58px;
+  }
+}
+
+/* MEDIUM DEVICES - md (Tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .banner-slider .owl-carousel .item .slider-item .content h2 {
+    font-size: 30px;
+  }
+  .banner-slider .owl-carousel .item .slider-item .content p {
+    line-height: 20px;
+    font-size: 14px;
+    margin: 15px auto 25px;
+  }
+  .banner-slider .owl-carousel .item .slider-item .content .banner-btn {
+    padding: 7px 20px;
+    font-size: 14px;
+  }
+  .section-header h2 {
+    font-size: 25px;
+  }
+  .section-header p {
+    width: 70%;
+    font-size: 14px;
+  }
+  .feature-item {
+    flex-direction: column;
+    text-align: center;
+  }
+  .feature-item .image img {
+    width: 55px;
+    height: 55px;
+  }
+  .feature-item .image {
+    text-align: center;
+  }
+  .feature-content p {
+    font-size: 12px;
+    line-height: 20px;
+  }
+  .flip-card-back {
+    background: none;
+  }
+  #call-to-action .section-header .banner-btn {
+    padding: 7px 20px;
+    font-size: 14px;
+  }
+  footer .top-footer {
+    padding: 60px 0;
+  }
+  footer .top-footer .item p {
+    font-size: 12px;
+    line-height: 20px;
+  }
+  footer .top-footer .item .subscribe-field button {
+    right: -3px;
+  }
+  footer .top-footer .item h4 {
+    font-size: 16px;
+  }
+  footer .top-footer .item a {
+    font-size: 10px;
+  }
+  .footer-nav ul li a {
+    font-size: 10px;
+  }
+}
+
+/* SMALL DEVICES - sm (Landscape Phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+}
+
+/* EXTRA SMALL DEVICES (Portrait Phones, 320px and up) */
+@media (min-width: 320px) and (max-width: 575.98px) {
+  .top-header {
+    padding: 10px 0;
+  }
+  .top-header .contact-info ul {
+    gap: 5px;
+    flex-direction: column;
+  }
+  .navbar-brand {
+    width: 110px;
+  }
+  .banner-slider .owl-carousel .item .slider-item .content {
+    /* top: 90%; */
+  }
+  .owl-theme .owl-dots {
+    display: none;
+  }
+  .banner-slider .owl-carousel .item .slider-item .content h2 {
+    font-size: 16px;
+  }
+  .banner-slider .owl-carousel .item .slider-item .content p {
+    line-height: 14px;
+    font-size: 10px;
+    margin: 10px auto 15px;
+  }
+  .banner-slider .owl-carousel .item .slider-item .content .banner-btn {
+    padding: 5px 15px;
+    font-size: 10px;
+  }
+  .section-header h2 {
+    font-size: 25px;
+  }
+  .section-header p {
+    width: 90%;
+    font-size: 10px;
+  }
+  #features {
+    padding: 40px 0;
+  }
+  .feature-item {
+    flex-direction: column;
+    text-align: center;
+    margin: 10px 40px;
+  }
+  .feature-item .image img {
+    width: 55px;
+    height: 55px;
+  }
+  .feature-item .image {
+    text-align: center;
+  }
+  .feature-content p {
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .flip-card-back {
+    background: none;
+  }
+  #call-to-action {
+    padding: 40px 0;
+  }
+  .section-header {
+    margin-bottom: 0;
+  }
+  #call-to-action .section-header .banner-btn {
+    padding: 7px 20px;
+    font-size: 14px;
+  }
+  #call-to-action .section-header p {
+    padding: 10px 0 20px;
+  }
+  footer .top-footer {
+    padding: 40px 0;
+  }
+  footer .top-footer .item p {
+    font-size: 12px;
+    line-height: 20px;
+  }
+  footer .top-footer .item .subscribe-field input {
+    width: 100%;
+  }
+  footer .top-footer .item .subscribe-field button {
+    right: 3px;
+  }
+  footer .top-footer .item h4 {
+    font-size: 16px;
+  }
+  footer .top-footer .item a {
+    font-size: 10px;
+  }
+  .footer-nav ul li a {
+    font-size: 10px;
+  }
+  .copyright-text {
+    text-align: center;
+  }
+  .footer-nav ul {
+    text-align: center;
+  }
+}
